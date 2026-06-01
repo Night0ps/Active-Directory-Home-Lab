@@ -33,5 +33,5 @@ Built a functional Windows domain environment using Active Directory to simulate
 - Configure Group Policy Objects (Password Policy, etc.)
 - Document troubleshooting steps
 
-## 🏆 Why This Project Matters
+## 🏆 Why My Project Matters
 This lab closely resembles real-world sysadmin and cybersecurity tasks. By working on this project I am gaining hands-on experience.
