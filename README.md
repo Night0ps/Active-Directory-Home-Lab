@@ -6,26 +6,27 @@ Windows Active Directory Home Lab - Built for Cybersecurity portfolio
 Built a functional Windows domain environment using Active Directory to simulate a real small business network. This project demonstrates core IT and cybersecurity skills.
 
 ## 🛠 Technologies Used
-- **VirtualBox** (Virtualization)
-- **Windows Server 2022** (Domain Controller)
-- **Windows 11 Pro** (Client)
+- **VirtualBox** - Virtualization Platform
+- **Windows Server 2022** - Domain Controller
+- **Windows 11 Pro** - Client Machine
 - **Active Directory Domain Services**
-- **Group Policy**
+- **Group Policy Management**
 
 ## 🔐 Skills Demonstrated
-- Installing and configuring Windows Server
-- Promoting server to Domain Controller
-- Creating Organizational Units (OUs)
-- User account creation and management
+- Windows Server installation and configuration
+- Active Directory Domain Controller setup and promotion
+- Organizational Unit (OU) design and management
+- User account creation and administration
 - Static IP configuration and networking
-- Domain architecture design
+- Domain join and authentication
+- Group Policy configuration (Password Policy)
 
 ## 📚 Lessons Learned
-- How to deploy a real Active Directory infrastructure
-- Best practices for OU design and user management
-- Understanding of domain joining and authentication
-- Troubleshooting network connectivity in virtual environments
-- Windows Server administration fundamentals
+- Deploying and managing a full Active Directory infrastructure
+- Best practices for OU structure and user management
+- Troubleshooting domain connectivity issues
+- Configuring security policies through Group Policy
+- Understanding virtualization and networking in enterprise environments
 
 ## 🚀 Next Steps (In Progress)
 - Create domain users and groups | Done
@@ -33,5 +34,5 @@ Built a functional Windows domain environment using Active Directory to simulate
 - Configure Group Policy Objects (Password Policy, etc.) | Done
 - Document troubleshooting steps | Done
 
-## 🏆 Why My Project Matters
-This lab closely resembles real-world sysadmin and cybersecurity tasks. By working on this project I am gaining hands-on experience.
+## 🚀 Why This Project Matters
+This lab closely mirrors real-world responsibilities in **Help Desk, IT Support, System Administrator, and Junior Cybersecurity** roles. It showcases practical hands-on experience with technologies widely used in enterprise environments.
