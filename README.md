@@ -21,6 +21,23 @@ Built a functional Windows domain environment using Active Directory to simulate
 - Domain join and authentication
 - Group Policy configuration (Password Policy)
 
+## 📸 Screenshots
+
+### Domain Controller Setup
+![Active Directory Installed](Active%20Directory%20Installed%20in%20Server%20Manager.png)
+![Organizational Units Created](Created%204%20Organizational%20Units.png)
+![Group Policy Configured](Configured%20Group%20Policy.png)
+![Domain Controller Setup](Setting%20up%20the%20Domain%20Controller.png)
+
+### Client & Domain Join
+![Windows 11 Installation](Installing%20Win11%20Pro%20for%20the%20VM.png)
+![Static IP Configuration](Set%20up%20the%20Static%20IP.png)
+![Successfully Connected to Domain](Successfully%20connected%20to%20Domain.png)
+![Logged in with Domain Account](Successfully%20logged%20in%20with%20a%20Domain%20Account.png)
+
+### Lab Environment
+![Both VMs Running](Both%20VMs%20running%20using%20Oracle%20VirtualBox.png)
+
 ## 📚 Lessons Learned
 - Deploying and managing a full Active Directory infrastructure
 - Best practices for OU structure and user management
