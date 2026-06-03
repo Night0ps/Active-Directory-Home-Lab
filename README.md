@@ -33,7 +33,8 @@ Built a functional Windows domain environment using Active Directory to simulate
 ![Windows 11 Installation](Installing%20Win11%20Pro%20for%20the%20VM.png)
 ![Static IP Configuration](Set%20up%20the%20Static%20IP.png)
 ![Successfully Connected to Domain](Successfully%20connected%20to%20Domain.png)
-![Logged in with Domain Account](Successfully%20logged%20in%20with%20a%20Domain%20Account.png)
+![Logged in with Domain Account](domain-account-login.png)
+
 
 ### Lab Environment
 ![Both VMs Running](Both%20VMs%20running%20using%20Oracle%20VirtualBox.png)
