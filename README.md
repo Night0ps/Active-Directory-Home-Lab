@@ -28,10 +28,10 @@ Built a functional Windows domain environment using Active Directory to simulate
 - Windows Server administration fundamentals
 
 ## 🚀 Next Steps (In Progress)
-- Create domain users and groups
-- Join Windows 11 client to the domain
-- Configure Group Policy Objects (Password Policy, etc.)
-- Document troubleshooting steps
+- Create domain users and groups | Done
+- Join Windows 11 client to the domain | Done
+- Configure Group Policy Objects (Password Policy, etc.) | Done
+- Document troubleshooting steps | Done
 
 ## 🏆 Why My Project Matters
 This lab closely resembles real-world sysadmin and cybersecurity tasks. By working on this project I am gaining hands-on experience.
